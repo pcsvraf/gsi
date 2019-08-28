@@ -1,0 +1,5 @@
+[25-Jul-2019 16:01:45 UTC] PHP Warning:  fopen(/home/pcspucv/public_html/gsi/proyecto/tcpdf/cache/mska_999f0c62744013e311abe78605801f8a): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8052
+[01-Aug-2019 20:18:57 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/pcspucv/public_html/gsi/proyecto/usuario_solicitante/inversion_finalizada.php on line 96
+[01-Aug-2019 20:20:58 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/pcspucv/public_html/gsi/proyecto/usuario_solicitante/inversion_finalizada.php on line 100
+[07-Aug-2019 15:11:44 America/Santiago] PHP Warning:  Division by zero in /home/pcspucv/public_html/gsi/proyecto/usuario_solicitante/funcion_rescate.php on line 48
+[07-Aug-2019 15:16:07 America/Santiago] PHP Warning:  Division by zero in /home/pcspucv/public_html/gsi/proyecto/usuario_solicitante/funcion_rescate.php on line 48

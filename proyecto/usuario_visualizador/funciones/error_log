@@ -1,0 +1,104 @@
+[08-Aug-2018 14:41:46 UTC] PHP Warning:  include(..//core/conexion.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/usuario_visualizador/funciones/ver_archivo.php on line 26
+[08-Aug-2018 14:41:46 UTC] PHP Warning:  include(..//core/conexion.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/usuario_visualizador/funciones/ver_archivo.php on line 26
+[08-Aug-2018 14:41:46 UTC] PHP Warning:  include(): Failed opening '..//core/conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pcspucv/public_html/gsi/proyecto/usuario_visualizador/funciones/ver_archivo.php on line 26
+[08-Aug-2018 14:41:46 UTC] PHP Fatal error:  Class 'Conect_MySql' not found in /home/pcspucv/public_html/gsi/proyecto/usuario_visualizador/funciones/ver_archivo.php on line 28
+[09-Aug-2018 16:23:48 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:23:48 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:23:48 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:23:48 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:23:48 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:23:48 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:23:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 23722
+[09-Aug-2018 16:23:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 23754
+[09-Aug-2018 16:23:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php:21301) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541
+[09-Aug-2018 16:23:54 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:23:54 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:23:54 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:23:54 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:23:54 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:23:54 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:23:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 23722
+[09-Aug-2018 16:23:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 23754
+[09-Aug-2018 16:23:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php:21301) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541
+[09-Aug-2018 16:27:44 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:27:44 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:27:44 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:27:44 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:27:44 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:27:44 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:27:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 23722
+[09-Aug-2018 16:27:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 23754
+[09-Aug-2018 16:27:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php:21301) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541
+[09-Aug-2018 16:28:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:28:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:28:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:28:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:28:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:28:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 21301
+[09-Aug-2018 16:28:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 23722
+[09-Aug-2018 16:28:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 23754
+[09-Aug-2018 16:28:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php:21301) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541
+[09-Aug-2018 16:37:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/usuario_visualizador/funciones/genera_pdf_ingreso.php:146) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541
+[09-Aug-2018 16:43:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/usuario_visualizador/funciones/genera_pdf_ingreso.php:53) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541
+[09-Aug-2018 17:24:44 UTC] PHP Warning:  include(..//core/conexion.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/usuario_visualizador/funciones/mostrar_pdf.php on line 26
+[09-Aug-2018 17:24:44 UTC] PHP Warning:  include(..//core/conexion.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/usuario_visualizador/funciones/mostrar_pdf.php on line 26
+[09-Aug-2018 17:24:44 UTC] PHP Warning:  include(): Failed opening '..//core/conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pcspucv/public_html/gsi/proyecto/usuario_visualizador/funciones/mostrar_pdf.php on line 26
+[09-Aug-2018 17:24:44 UTC] PHP Fatal error:  Class 'Conect_MySql' not found in /home/pcspucv/public_html/gsi/proyecto/usuario_visualizador/funciones/mostrar_pdf.php on line 28
+[14-Aug-2018 19:09:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/pcspucv/public_html/gsi/proyecto/usuario_visualizador/funciones/funcion_ingreso.php on line 14
+[27-Aug-2018 20:48:44 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[27-Aug-2018 20:48:44 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[27-Aug-2018 20:48:44 UTC] PHP Warning:  include(): Failed opening '../../../gsi/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[27-Aug-2018 20:48:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/core/conexion.php:3) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541
+[28-Aug-2018 14:43:01 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:43:01 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:43:01 UTC] PHP Warning:  include(): Failed opening '../../../gsi/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:43:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/core/conexion.php:3) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541
+[28-Aug-2018 14:43:11 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:43:11 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:43:11 UTC] PHP Warning:  include(): Failed opening '../../../gsi/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:43:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/core/conexion.php:3) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541
+[28-Aug-2018 14:43:19 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:43:19 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:43:19 UTC] PHP Warning:  include(): Failed opening '../../../gsi/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:43:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/core/conexion.php:3) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541
+[28-Aug-2018 14:43:29 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:43:29 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:43:29 UTC] PHP Warning:  include(): Failed opening '../../../gsi/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:43:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/core/conexion.php:3) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541
+[28-Aug-2018 14:44:00 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:44:00 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:44:00 UTC] PHP Warning:  include(): Failed opening '../../../gsi/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:44:00 UTC] PHP Fatal error:  Call to undefined function is_user_logged_in() in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 77
+[28-Aug-2018 14:44:12 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:44:12 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:44:12 UTC] PHP Warning:  include(): Failed opening '../../../gsi/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:44:12 UTC] PHP Fatal error:  Call to undefined function is_user_logged_in() in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 77
+[28-Aug-2018 14:44:53 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:44:53 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:44:53 UTC] PHP Warning:  include(): Failed opening '../../../gsi/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:44:53 UTC] PHP Fatal error:  Call to undefined function is_user_logged_in() in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 77
+[28-Aug-2018 14:49:17 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:49:17 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:49:17 UTC] PHP Warning:  include(): Failed opening '../../../gsi/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:49:17 UTC] PHP Fatal error:  Call to undefined function is_user_logged_in() in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 77
+[28-Aug-2018 14:49:21 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:49:21 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:49:21 UTC] PHP Warning:  include(): Failed opening '../../../gsi/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:49:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/core/conexion.php:3) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541
+[28-Aug-2018 14:49:24 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:49:24 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:49:24 UTC] PHP Warning:  include(): Failed opening '../../../gsi/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:49:24 UTC] PHP Fatal error:  Call to undefined function is_user_logged_in() in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 77
+[28-Aug-2018 14:49:51 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:49:51 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:49:51 UTC] PHP Warning:  include(): Failed opening '../../../gsi/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:51:21 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:51:21 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:51:21 UTC] PHP Warning:  include(): Failed opening '../../../gsi/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:51:26 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:51:26 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:51:26 UTC] PHP Warning:  include(): Failed opening '../../../gsi/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:51:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/core/conexion.php:3) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541
+[28-Aug-2018 14:51:31 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:51:31 UTC] PHP Warning:  include(../../../gsi/wp-load.php): failed to open stream: No such file or directory in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3
+[28-Aug-2018 14:51:31 UTC] PHP Warning:  include(): Failed opening '../../../gsi/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pcspucv/public_html/gsi/proyecto/core/conexion.php on line 3

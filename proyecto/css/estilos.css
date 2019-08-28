@@ -1,0 +1,22 @@
+
+body{
+    color: #424242;
+    font-family: Arial; 
+}
+
+
+
+body .container {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+}
+
+.botonimagen{
+    background-image:url(../imagenes/excel-1.png);
+    background-repeat:no-repeat;
+    height:100px;
+    width:100px;
+    background-position:center;
+}
+
