@@ -9,8 +9,8 @@ $solicitud = $db->execute($sql);
 $fila = mysqli_fetch_object($solicitud);
 ?>
 <html>
-    <head>
-        <meta charset="UTF-8">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=gb18030">
+        
         <link rel="stylesheet" href="../css/bootstrap.min.css">
         <link rel="stylesheet" href="../css/estilos.css"  type="text/css">
         <link rel="stylesheet" href="../css/menu.css">
@@ -63,15 +63,15 @@ if (isset($_POST['guardar'])) {
     $prefix = "doc_";
     $ext = explode(".", $nombre)[1];
     $ruta = $_FILES['archivo']['tmp_name'];
-    $destino = "..//usuario_solicitante/archivos/" . $nombre;
+    $destino = "..//usuario_solicitante/archivos/" . $idSoli.$nombre;
     $realName = uniqid($prefix, TRUE) . '.' . $ext;
     if ($nombre != "") {
         if (move_uploaded_file($ruta, $destino)) {
             if($estado == 2){
-                $sql = "update peticion set nombre_archivo='$nombre',nombre_random='$realName' where id=".$idSoli;
+                $sql = "update peticion set nombre_archivo='$idSoli$nombre',nombre_random='$realName' where id=".$idSoli;
             }
             if($estado == 4){
-                $sql = "update peticion set nombre_archivo2='$nombre', nombre_random2='$realName' where id=".$idSoli;
+                $sql = "update peticion set nombre_archivo2='$idSoli$nombre', nombre_random2='$realName' where id=".$idSoli;
             }
             $isInsert = $db->execute($sql);
             if ($isInsert) {

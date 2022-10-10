@@ -1,4 +1,5 @@
 <?php
+ob_start();
 require_once('../../tcpdf/config/lang/eng.php');
 require_once('../../tcpdf/tcpdf.php');
 require_once('../../core/conexion.php');
@@ -80,7 +81,7 @@ $item = 1;
     $item = $item + 1;
 //}
 
-
+ob_end_clean();
 $pdf->SetFont('Helvetica', '', 10);
 $pdf->writeHTML($html, true, 0, true, 0);
 

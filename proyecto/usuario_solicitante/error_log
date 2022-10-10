@@ -3,3 +3,31 @@
 [01-Aug-2019 20:20:58 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/pcspucv/public_html/gsi/proyecto/usuario_solicitante/inversion_finalizada.php on line 100
 [07-Aug-2019 15:11:44 America/Santiago] PHP Warning:  Division by zero in /home/pcspucv/public_html/gsi/proyecto/usuario_solicitante/funcion_rescate.php on line 48
 [07-Aug-2019 15:16:07 America/Santiago] PHP Warning:  Division by zero in /home/pcspucv/public_html/gsi/proyecto/usuario_solicitante/funcion_rescate.php on line 48
+[25-Aug-2021 16:08:15 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 22091
+[25-Aug-2021 16:08:15 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 20898
+[25-Aug-2021 16:08:15 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 25545
+[25-Aug-2021 16:08:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php:22091) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541
+[26-Aug-2021 17:55:03 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 22091
+[26-Aug-2021 17:55:04 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 20898
+[26-Aug-2021 17:55:04 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 25545
+[26-Aug-2021 17:55:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php:22091) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541
+[26-Aug-2021 17:56:12 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 22091
+[26-Aug-2021 17:56:12 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 20898
+[26-Aug-2021 22:52:43 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 22091
+[26-Aug-2021 22:52:43 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 20898
+[26-Aug-2021 22:52:43 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 25545
+[26-Aug-2021 22:52:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php:25545) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541
+[26-Aug-2021 22:53:36 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 22091
+[26-Aug-2021 22:53:37 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 20898
+[26-Aug-2021 22:53:37 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 25545
+[26-Aug-2021 22:53:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php:25545) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541
+[22-Sep-2022 19:08:52 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 22091
+[22-Sep-2022 19:08:53 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 20898
+[22-Sep-2022 19:11:49 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 22091
+[22-Sep-2022 19:11:50 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 20898
+[22-Sep-2022 19:11:50 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 25545
+[22-Sep-2022 19:11:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php:25545) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541
+[22-Sep-2022 19:16:05 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 22091
+[22-Sep-2022 19:16:05 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 20898
+[22-Sep-2022 19:16:05 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 25545
+[22-Sep-2022 19:16:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php:25545) in /home/pcspucv/public_html/gsi/proyecto/tcpdf/tcpdf.php on line 8541

@@ -1,5 +1,5 @@
 <?php
-
+ob_start();
 require_once('../../tcpdf/config/lang/eng.php');
 require_once('../../tcpdf/tcpdf.php');
 require_once('../../core/conexion.php');
@@ -166,7 +166,7 @@ $html5 .= '<table border="1" cellpadding="5">
 $item = $item + 1;
 //}
 
-
+ob_end_clean();
 $pdf->SetFont('Helvetica', '', 10);
 $pdf->writeHTML($html, true, 0, true, 0);
 $pdf->writeHTML($html2, true, 0, true, 0);
